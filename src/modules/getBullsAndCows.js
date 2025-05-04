@@ -14,6 +14,7 @@
  */
 function getBullsAndCows(userInput, numberToGuess) {
   /* Write your code here */
+  // Here we get userInput that was validated in checkIsValidUserInput.js
   const result = {
     bulls: 0,
     cows: 0,
